@@ -24,6 +24,8 @@ public abstract class Bank {
 	public static final String TEXT_FLAG = "-t";
 
 	public static void main(String[] args) throws Exception {
+		
+		// Teste de versionamento
 		PropertyConfigurator.configure(Bank.class
 				.getResource(PROPERTIES_FILE_LOG4J));
 
