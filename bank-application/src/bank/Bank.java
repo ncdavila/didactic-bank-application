@@ -23,6 +23,7 @@ public abstract class Bank {
 	public static final String PROPERTIES_FILE_LOG4J = "log4j.properties";
 	public static final String TEXT_FLAG = "-t";
 
+	// Teste de novo branch no repositório
 	public static void main(String[] args) throws Exception {
 		
 		// Teste de versionamento
